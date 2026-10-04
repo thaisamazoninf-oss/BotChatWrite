@@ -13,6 +13,7 @@ URL_CHAT = "https://chat.sonax.net.br/app/chat"
 LOGIN_EMAIL = "atendente02@amazoninf.com.br"
 LOGIN_SENHA = "Amazon@2025"
 
+#Pasta dowload
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DOWNLOAD_DIR = os.path.join(BASE_DIR, "downloads")
 
